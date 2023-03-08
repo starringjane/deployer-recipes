@@ -1,0 +1,16 @@
+{
+    "name": "starring-jane/wordpress-blade",
+    "description": "A composer package with deployer recipes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Vanhove",
+            "email": "maxim@starringjane.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "deployer/deployer": "^6|^7"
+    }
+}
