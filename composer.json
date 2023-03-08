@@ -1,5 +1,5 @@
 {
-    "name": "starring-jane/wordpress-blade",
+    "name": "starring-jane/deployer-recipes",
     "description": "A composer package with deployer recipes",
     "type": "library",
     "license": "MIT",
