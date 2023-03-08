@@ -2,7 +2,7 @@
 
 ## Install
 
-`composer install starring-jane/deployer-recipes`
+`composer require starring-jane/deployer-recipes`
 
 ## Archive recipe
 
